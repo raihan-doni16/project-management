@@ -18,7 +18,7 @@ The "Project Management System with Laravel" is a web application designed to fa
 
 ### Prerequisites
 
-- PHP (version 10)
+- Laravel (version 10)
 - MySQL database
 
 ### Installation
